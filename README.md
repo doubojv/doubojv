@@ -1,12 +1,12 @@
-<p align="left">
+<p>
     <img align="left" alt="505" src="https://media.giphy.com/media/d6eDukfRfovvb6Ft4J/giphy.gif">
     
 </p>
-<p align="center">
-    <img align="center - 3000" alt="505" src="https://media.giphy.com/media/d6eDukfRfovvb6Ft4J/giphy.gif">
+<p>
+    <img align="center" alt="505" src="https://media.giphy.com/media/d6eDukfRfovvb6Ft4J/giphy.gif">
     
 </p>
-<p align="right">
+<p>
     <img align="right" alt="505" src="https://media.giphy.com/media/d6eDukfRfovvb6Ft4J/giphy.gif">
     
 </p>
